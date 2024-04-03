@@ -66,7 +66,7 @@ endmodule
 
 
 **RESULTS**
-Therefore the code for encoder8to3 has been successfully executed.ance 4th a
+Therefore the code for encoder8to3 has been successfully executed.
 
 
 
