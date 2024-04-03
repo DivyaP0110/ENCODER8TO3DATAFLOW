@@ -56,6 +56,8 @@ endmodule
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+
+
 ![WhatsApp Image 2024-04-03 at 10 40 27_91370460](https://github.com/DivyaP0110/ENCODER8TO3DATAFLOW/assets/144870891/1fb3175e-5697-4003-9537-47dd5b9e2d30)
 
 
